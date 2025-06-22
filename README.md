@@ -2,9 +2,6 @@
 
 A simple and responsive weather application built with **React** and **Material UI**, using data from the **OpenWeatherMap API**.
 
-## 🔗 Live Demo
-(Coming Soon or add your link here)
-
 ## 📌 Features
 
 - 🌍 Search current weather by city name
